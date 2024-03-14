@@ -18,6 +18,8 @@ type
     Edit2: TEdit;
     Edit3: TEdit;
     Edit4: TEdit;
+    LbPosition: TLabel;
+    LbElemento: TLabel;
     procedure BtnCrearClick(Sender: TObject);
     procedure BtnDimencionarClick(Sender: TObject);
     procedure BtnPonerClick(Sender: TObject);

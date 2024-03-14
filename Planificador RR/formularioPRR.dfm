@@ -24,6 +24,32 @@ object Form1: TForm1
     Font.Style = []
     ParentFont = False
   end
+  object LbPosition: TLabel
+    Left = 112
+    Top = 119
+    Width = 72
+    Height = 28
+    Caption = 'Posicion'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -20
+    Font.Name = 'Segoe UI'
+    Font.Style = []
+    ParentFont = False
+  end
+  object LbElemento: TLabel
+    Left = 239
+    Top = 119
+    Width = 82
+    Height = 28
+    Caption = 'Elemento'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -20
+    Font.Name = 'Segoe UI'
+    Font.Style = []
+    ParentFont = False
+  end
   object BtnCrear: TButton
     Left = 520
     Top = 104
@@ -43,7 +69,7 @@ object Form1: TForm1
     OnClick = BtnDimencionarClick
   end
   object BtnPoner: TButton
-    Left = 344
+    Left = 360
     Top = 152
     Width = 75
     Height = 25
@@ -52,7 +78,7 @@ object Form1: TForm1
     OnClick = BtnPonerClick
   end
   object BtnMostrar: TButton
-    Left = 280
+    Left = 376
     Top = 232
     Width = 75
     Height = 25
@@ -82,7 +108,6 @@ object Form1: TForm1
     Width = 121
     Height = 23
     TabOrder = 6
-    Text = 'Edit2'
   end
   object Edit3: TEdit
     Left = 217
@@ -90,12 +115,11 @@ object Form1: TForm1
     Width = 121
     Height = 23
     TabOrder = 7
-    Text = 'Edit3'
   end
   object Edit4: TEdit
     Left = 88
     Top = 233
-    Width = 186
+    Width = 265
     Height = 23
     TabOrder = 8
   end
