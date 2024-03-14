@@ -1,15 +1,15 @@
-unit unitClaseVector;
+unit unitClaseVector; // nombre del archivo
 
-interface
-uses SysUtils;
-const maximoElementos = 1024;
+interface // seccion de la interfaz
+uses SysUtils; // seccion de usos de la libreria de funciones de sistema
+const maximoElementos = 1024; // constante de maximo de elementos
 type
-  conjuntoElementos = Array[1..maximoElementos] of Integer;
-  claseElementosVector = class(Exception);
-  claseVector = class
+  conjuntoElementos = Array[1..maximoElementos] of Integer; // tipo de conjunto de elementos del vector de 1024 elementos
+  claseElementosVector = class(Exception); // clase de excepciones de elementos del vector  de 1024 elementos
+  claseVector = class // clase de vector
   private
-    n: Word;
-    elementos: conjuntoElementos;
+    n: Word; // variable de tipo word
+    elementos: conjuntoElementos; // variable de tipo conjunto de elementos
     // Funciones Basicas
     procedure intercambiar(i, j: Word);
     //*******************************************

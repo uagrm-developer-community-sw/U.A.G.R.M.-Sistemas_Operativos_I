@@ -96,7 +96,7 @@ object Form1: TForm1
     Left = 88
     Top = 233
     Width = 186
-    Height = 56
+    Height = 23
     TabOrder = 8
     Text = 'Edit4'
   end
