@@ -38,13 +38,16 @@ var
 implementation
 
 {$R *.dfm}
-
+// ------------------------------------------------
+// Constructor de la clase
 procedure TForm1.BtnCrearClick(Sender: TObject);
 begin
   cv:=claseVector.crear;
   ShowMessage('creado');
 end;
-// Dimencionar
+
+// ------------------------------------------------
+// Dimencionar el vecto
 procedure TForm1.BtnDimencionarClick(Sender: TObject);
 var a: Integer;
 begin
@@ -53,11 +56,8 @@ begin
   ShowMessage('Dimencion: '+(IntToStr(a)));
 end;
 
-procedure TForm1.BtnMostrarClick(Sender: TObject);
-begin
-  Edit4.Text := cv.comoString;
-end;
-
+// ------------------------------------------------
+// funcion que retorna el valor de elemento en la posicion pos del vector
 procedure TForm1.BtnPonerClick(Sender: TObject);
 var a,b,c : Integer;
 begin
@@ -67,9 +67,17 @@ begin
   ShowMessage('Posicion: ' + (IntToStr( a )) + ' Elemento: ' + (IntToStr(b)));
 end;
 
+//------------------------------------------------
+// convertir los elementos del vector de cadena a entero y retornarlos
+procedure TForm1.BtnMostrarClick(Sender: TObject);
+begin
+  Edit4.Text := cv.comoString;
+end;
+
+//------------------------------------------------
+// Salir de la aplicacion
 procedure TForm1.BtnSalirClick(Sender: TObject);
 begin
   Close;
 end;
-
 end.
