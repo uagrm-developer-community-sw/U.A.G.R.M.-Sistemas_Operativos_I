@@ -1,5 +1,5 @@
 # U.A.G.R.M.-Sistemas_Operativos_I
-Universidad: U.A.G.R.M. | Facultad: F.I.C.C.T. | Semestre: 2 2023 | Materia: Sistemas Operativos I | Grupo: SC | Docente: Barroso Viruez Gino | Repositorio: Avance de la materia | Lenguaje: Delphi | IDE: Enbarcadero Community Edition
+Universidad: U.A.G.R.M. | Facultad: F.I.C.C.T. | Semestre: 3 2024 | Materia: Sistemas Operativos I | Grupo: SC | Docente: Calle Terrazas Edwin | Repositorio: Avance de la materia
 
 <p align="center"><img src="https://user-images.githubusercontent.com/36086876/146686931-7454e35d-a44b-422f-84c6-c3645d235ad3.png" width="162"></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/36086876/148548585-d4259cff-b909-48de-8d48-c41a7ba2cab3.png" width="292"></p>

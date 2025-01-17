@@ -1,0 +1,1 @@
+echo Esta es otra linea >> texto.txt
