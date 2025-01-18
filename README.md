@@ -14,6 +14,13 @@ Universidad: U.A.G.R.M. | Facultad: F.I.C.C.T. | Semestre: 3 2024 | Materia: Sis
 > [+ Instalador Juego]()<br>
 
 ## AVANCE DE CLAES.
+> PRIMER PARCIAL:
+>> [+ Programacion Batch.]()<br>
+>> [+ Grafos de Estado.]()<br>
+>> [+ Algoritmos de Planificacion.]()
+>>> [- FIFO Proyecto](https://github.com/jhasmany-fernandez/F.I.C.C.T.-Proyect-FIFO-Planner)
+
+## PROYECTOS.
 > [+ Clase #1 | Recursos](https://github.com/jhasmany-fernandez/F.I.C.C.T.-Proyecto_Juego_Dinamico-Desktop/tree/main/Avance%20Clases/Clase%20%231)<br>
 
 > [+ Clase #2 | Recursos](https://github.com/jhasmany-fernandez/F.I.C.C.T.-Proyecto_Juego_Dinamico-Desktop/tree/main/Avance%20Clases/Clase%20%232)<br>
