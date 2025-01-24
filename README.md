@@ -19,6 +19,8 @@ Universidad: U.A.G.R.M. | Facultad: F.I.C.C.T. | Semestre: 3 2024 | Materia: Sis
 >> [+ Grafos de Estado.]()<br>
 >> [+ Algoritmos de Planificacion.]()
 >>> [- FIFO Proyecto](https://github.com/jhasmany-fernandez/F.I.C.C.T.-Proyect-FIFO-Planner)
+>>> [- SJF Proyecto](https://github.com/jhasmany-fernandez/F.I.C.C.T.-Proyect-FIFO-Planner)
+>>> [- RR Proyecto](https://github.com/jhasmany-fernandez/F.I.C.C.T.-Proyect-ROUND-ROBIN-RR)
 
 ## PROYECTOS.
 > [+ Clase #1 | Recursos](https://github.com/jhasmany-fernandez/F.I.C.C.T.-Proyecto_Juego_Dinamico-Desktop/tree/main/Avance%20Clases/Clase%20%231)<br>
