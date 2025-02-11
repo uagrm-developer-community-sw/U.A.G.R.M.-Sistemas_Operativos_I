@@ -18,9 +18,14 @@ Universidad: U.A.G.R.M. | Facultad: F.I.C.C.T. | Semestre: 3 2024 | Materia: Sis
 >> [+ Programacion Batch.]()<br>
 >> [+ Grafos de Estado.]()<br>
 >> [+ Algoritmos de Planificacion.]()
->>> [- FIFO Proyecto](https://github.com/jhasmany-fernandez/F.I.C.C.T.-Proyect-FIFO-Planner)
->>> [- SJF Proyecto](https://github.com/jhasmany-fernandez/F.I.C.C.T.-Proyect-FIFO-Planner)
->>> [- RR Proyecto](https://github.com/jhasmany-fernandez/F.I.C.C.T.-Proyect-ROUND-ROBIN-RR)
+>>> [- FIFO Proyecto](https://github.com/jhasmany-fernandez/F.I.C.C.T.-Proyect-FIFO-Planner)<br>
+>>> [- SJF Proyecto](https://github.com/jhasmany-fernandez/F.I.C.C.T.-Proyect-FIFO-Planner)<br>
+>>> [- RR Proyecto](https://github.com/jhasmany-fernandez/F.I.C.C.T.-Proyect-ROUND-ROBIN-RR)<br>
+
+> SEGUNDO PARCIAL:
+>> [+ 2 - Segundo Parcial](https://github.com/uagrm-developer-community-sw/U.A.G.R.M.-Sistemas_Operativos_I/tree/main/2%20-%20Segundo%20Parcial)<br>
+
+>> [+ Proyectos: Servidor OpenLdap](https://github.com/uagrm-developer-community-sw/U.A.G.R.M.-Sistemas_Operativos_I/tree/main/3%20-%20Proyectos)<br>
 
 ## PROYECTOS.
 > [+ Clase #1 | Recursos](https://github.com/jhasmany-fernandez/F.I.C.C.T.-Proyecto_Juego_Dinamico-Desktop/tree/main/Avance%20Clases/Clase%20%231)<br>
