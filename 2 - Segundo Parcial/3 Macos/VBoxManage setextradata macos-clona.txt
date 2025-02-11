@@ -1,0 +1,1 @@
+VBoxManage setextradata "macos-clonar" "VBoxInternal/Devices/smc/0/Config/GetKeyFromRealSMC" 0

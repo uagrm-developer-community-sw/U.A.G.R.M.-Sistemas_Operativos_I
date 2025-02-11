@@ -1,3 +1,4 @@
+:: Oculta la ejecución de los comandos en la consola para que solo se muestren los mensajes o resultados importantes.
 @echo off
 title Creacion de cuentas
 set /p usuario="Escribe el nombre del usuario:"
@@ -15,4 +16,3 @@ exit
 net user %usuario% /add
 pause > nul
 exit
-

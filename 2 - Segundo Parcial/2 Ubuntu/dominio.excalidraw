@@ -1,0 +1,51 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "id": "g-gk1uR7WFoCBetft0neE",
+      "type": "text",
+      "x": 994.30029296875,
+      "y": 408,
+      "width": 679.3994140625,
+      "height": 50,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b00",
+      "roundness": null,
+      "seed": 1660549982,
+      "version": 2,
+      "versionNonce": 1581019522,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1738951688243,
+      "link": null,
+      "locked": false,
+      "text": "sudo realm permit192.168.0.7  ficct.edu  'subusuario1@ficct.edu'   su -\nsubusuario1@ficct.edu",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "sudo realm permit192.168.0.7  ficct.edu  'subusuario1@ficct.edu'   su - subusuario1@ficct.edu",
+      "autoResize": false,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}

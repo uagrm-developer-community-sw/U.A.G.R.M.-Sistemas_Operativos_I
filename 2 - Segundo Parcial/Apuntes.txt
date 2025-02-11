@@ -1,0 +1,69 @@
+Dominio: FICCT EDU
+ping ficct.edu
+Passwd: Dev2307
+
+
+Passwd: 123ppp+++
+
+---------------------
+Host:
+ping 192.168.0.6
+
+----------------------
+Windows Server 22
+ping 192.168.0.7
+
+user: administrador
+passwd: Dev2307
+
+----------------------
+Windows 10 Pro
+ping 192.168.0.8
+
+equipo:123
+user: subusuario
+passwd: 2307
+
+
+
++++++++++++++++++
+usuario: usuario1 1ac
+passwd: 123uuu---
+
+usuario: subusuario2 ubuntu
+passwd: 123ppp+++
+
+
+
+++++++++++++++++
+Docente: passwd: 123ddd---
+gino
+
+123
+miguel
+
+administrativos: passwd: 123aaa---
+- carlos
+- pedro
+
+
++++++++++++++++++++++++++
+
+FORZAR LAS UPDATRE POLITICAS GRUPO EN AMVOS.
+gpupdate /force
+
+VERIFICAR LAS POLITICAS GPO
+gpresult /R
+
+VER LAS POLITICAS APLICADAS EN EL CLIENTE
+rsop.msc
+
+APLICAR POLITICAS EN EL DOMINIO
+gpupdate /target:computer /force
+
+
+VBoxManage setextradata "macos-clonar" "VBoxInternal/Devices/smc/0/Config/GetKeyFromRealSMC" 0
+
+
+
+
